@@ -1,3 +1,3 @@
 # git-conflict-challenge
 
-Modification en local
+Modification du fichier README - conflit résolu
